@@ -12,6 +12,14 @@ body {
 
 #punkty {
 
-  
+
+
+}
+
+table {
+
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 3px solid green;
 
 }
